@@ -261,10 +261,10 @@ public class Book {
 
 Access modifiers control the visibility and accessibility of classes, methods, and variables.
 
-| Modifier | Class | Package | Subclass | World |
+| Modifier | Class | Package | Subclass | World(any class) |
 |----------|-------|---------|----------|-------|
 | `public` | ✓ | ✓ | ✓ | ✓ |
-| `protected` | ✓ | ✓ | ✓ | ✗ |
+| `protected` | ✓ | ✓ | ✓(via inheritance) | ✗ |
 | Default | ✓ | ✓ | ✗ | ✗ |
 | `private` | ✓ | ✗ | ✗ | ✗ |
 
