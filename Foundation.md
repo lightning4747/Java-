@@ -1,5 +1,5 @@
 # Java Basics Study Notes
-
+### These are just for a view, check out the other dirs for detailed explaination
 ## Table of Contents
 1. [Introduction to Java](#introduction-to-java)
 2. [Setting Up Java](#setting-up-java)
